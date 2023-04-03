@@ -1,4 +1,10 @@
 [
 	"http://localhost:8222",
-	"http://localhost:8223"
+	"http://localhost:8223",
+        "http://localhost:8224",
+        "http://localhost:8225",
+        "http://localhost:8226",
+        "http://localhost:8227",
+        "http://localhost:8228",
+        "http://localhost:8229"
 ]
