@@ -8,9 +8,6 @@ Consists of 5 parts like described in below:
 - [Sample functions](./sample_functions): Pre-defined user functions to run a simulation
 - [Utils](./utils): Utilities like generating simulation scenario or analyzing the result.
 
-### Source Code Link
-[https://github.com/srujangit123/GRaF---Cloud-Computing](https://github.com/srujangit123/GRaF---Cloud-Computing)
-
 ## Getting Started
 ### Prerequisites
 
